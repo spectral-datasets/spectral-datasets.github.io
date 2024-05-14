@@ -1,0 +1,22 @@
+site_name: Spectral datasets
+site_url: https://spectral-datasets.github.io/
+site_description: Website for public spectral datasets
+repo_url: https://github.com/spectral-datasets/spectral-datasets.github.io
+edit_uri: edit/main/docs/
+theme:
+    name: material
+    logo: logo.png
+    favicon: favicon.ico
+markdown_extensions:
+    - toc:
+        baselevel: 2
+        permalink: "#"
+    - attr_list
+plugins:
+    - search
+    # https://github.com/timvink/mkdocs-table-reader-plugin
+    - table-reader
+nav:
+  - 'Home': index.md
+  - 'Datasets': datasets.md
+  - 'Software': software.md
