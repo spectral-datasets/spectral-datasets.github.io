@@ -55,4 +55,9 @@
          <lastmod>2024-05-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://spectral-datasets.github.io/datasets/soil-npk/</loc>
+         <lastmod>2024-05-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
