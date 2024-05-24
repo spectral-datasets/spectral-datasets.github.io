@@ -3,5 +3,5 @@ at the [University of Waikato](https://www.cs.waikato.ac.nz/), NZ. On this websi
 publicly available [NIRS](https://en.wikipedia.org/wiki/Near-infrared_spectroscopy) datasets, making not only
 the original data available, but also various conversions. 
 
-* [Datasets](datasets.md)
+* [Datasets](datasets/index.md)
 * [Software](software.md)

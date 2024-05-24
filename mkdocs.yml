@@ -18,5 +18,13 @@ plugins:
     - table-reader
 nav:
   - 'Home': index.md
-  - 'Datasets': datasets.md
+  - 'Datasets':
+      - 'Overview': datasets/index.md
+      - 'afsis-db-sqlite': datasets/afsis-db-sqlite.md
+      - 'animal-feed': datasets/animal-feed.md
+      - 'equine-articular-cartilage': datasets/equine-articular-cartilage.md
+      - 'mango-dmc': datasets/mango-dmc.md
+      - 'pollen': datasets/pollen.md
+      - 'poultry-cattle-manure': datasets/poultry-cattle-manure.md
+      - 'soil-aggregate': datasets/soil-aggregate.md
   - 'Software': software.md
