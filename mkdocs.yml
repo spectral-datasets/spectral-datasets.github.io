@@ -27,4 +27,5 @@ nav:
       - 'pollen': datasets/pollen.md
       - 'poultry-cattle-manure': datasets/poultry-cattle-manure.md
       - 'soil-aggregate': datasets/soil-aggregate.md
+      - 'soil-engineering': datasets/soil-engineering.md
   - 'Software': software.md
