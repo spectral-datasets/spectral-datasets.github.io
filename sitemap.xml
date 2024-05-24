@@ -6,12 +6,47 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://spectral-datasets.github.io/software/</loc>
+         <lastmod>2024-05-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://spectral-datasets.github.io/datasets/</loc>
          <lastmod>2024-05-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://spectral-datasets.github.io/software/</loc>
+         <loc>https://spectral-datasets.github.io/datasets/afsis-db-sqlite/</loc>
+         <lastmod>2024-05-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://spectral-datasets.github.io/datasets/animal-feed/</loc>
+         <lastmod>2024-05-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://spectral-datasets.github.io/datasets/equine-articular-cartilage/</loc>
+         <lastmod>2024-05-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://spectral-datasets.github.io/datasets/mango-dmc/</loc>
+         <lastmod>2024-05-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://spectral-datasets.github.io/datasets/pollen/</loc>
+         <lastmod>2024-05-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://spectral-datasets.github.io/datasets/poultry-cattle-manure/</loc>
+         <lastmod>2024-05-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://spectral-datasets.github.io/datasets/soil-aggregate/</loc>
          <lastmod>2024-05-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
