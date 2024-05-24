@@ -5,3 +5,4 @@ The following datasets are available:
 * [equine-articular-cartilage](https://github.com/spectral-datasets/equine-articular-cartilage)
 * [mango-dmc](https://github.com/spectral-datasets/mango-dmc)
 * [pollen](https://github.com/spectral-datasets/pollen)
+* [poultry-cattle-manure](https://github.com/spectral-datasets/poultry-cattle-manure)
