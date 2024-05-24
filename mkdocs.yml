@@ -28,4 +28,5 @@ nav:
       - 'poultry-cattle-manure': datasets/poultry-cattle-manure.md
       - 'soil-aggregate': datasets/soil-aggregate.md
       - 'soil-engineering': datasets/soil-engineering.md
+      - 'soil-npk': datasets/soil-npk.md
   - 'Software': software.md

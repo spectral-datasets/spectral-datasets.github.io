@@ -8,3 +8,4 @@ The following datasets are available:
 * [poultry-cattle-manure](poultry-cattle-manure.md)
 * [soil-aggregate](soil-aggregate.md)
 * [soil-engineering](soil-engineering.md)
+* [soil-npk](soil-npk.md)
