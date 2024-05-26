@@ -30,5 +30,5 @@ nav:
       - 'soil-engineering': datasets/soil-engineering.md
       - 'soil-npk': datasets/soil-npk.md
       - 'substrate-classification-organic-wastes': datasets/substrate-classification-organic-wastes.md
-      - 'sugarcane': sugarcane.md
+      - 'sugarcane': datasets/sugarcane.md
   - 'Software': software.md
