@@ -31,4 +31,5 @@ nav:
       - 'soil-npk': datasets/soil-npk.md
       - 'substrate-classification-organic-wastes': datasets/substrate-classification-organic-wastes.md
       - 'sugarcane': datasets/sugarcane.md
+      - 'tanzania-soil': datasets/tanzania-soil.md
   - 'Software': software.md

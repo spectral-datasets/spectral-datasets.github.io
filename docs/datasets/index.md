@@ -11,3 +11,4 @@ The following datasets are available:
 * [soil-npk](soil-npk.md)
 * [substrate-classification-organic-wastes](substrate-classification-organic-wastes.md)
 * [sugarcane](sugarcane.md)
+* [tanzania-soil](tanzania-soil.md)
