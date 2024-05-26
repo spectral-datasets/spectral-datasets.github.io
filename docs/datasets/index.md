@@ -12,3 +12,4 @@ The following datasets are available:
 * [substrate-classification-organic-wastes](substrate-classification-organic-wastes.md)
 * [sugarcane](sugarcane.md)
 * [tanzania-soil](tanzania-soil.md)
+* [timber](timber.md)

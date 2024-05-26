@@ -32,4 +32,5 @@ nav:
       - 'substrate-classification-organic-wastes': datasets/substrate-classification-organic-wastes.md
       - 'sugarcane': datasets/sugarcane.md
       - 'tanzania-soil': datasets/tanzania-soil.md
+      - 'timber': datasets/timber.md
   - 'Software': software.md
