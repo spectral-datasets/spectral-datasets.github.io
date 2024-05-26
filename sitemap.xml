@@ -70,4 +70,9 @@
          <lastmod>2024-05-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://spectral-datasets.github.io/datasets/tanzania-soil/</loc>
+         <lastmod>2024-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
