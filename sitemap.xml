@@ -65,4 +65,9 @@
          <lastmod>2024-05-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://spectral-datasets.github.io/datasets/sugarcane/</loc>
+         <lastmod>2024-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
