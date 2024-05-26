@@ -29,4 +29,5 @@ nav:
       - 'soil-aggregate': datasets/soil-aggregate.md
       - 'soil-engineering': datasets/soil-engineering.md
       - 'soil-npk': datasets/soil-npk.md
+      - 'substrate-classification-organic-wastes': datasets/substrate-classification-organic-wastes.md
   - 'Software': software.md

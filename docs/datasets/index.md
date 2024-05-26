@@ -9,3 +9,4 @@ The following datasets are available:
 * [soil-aggregate](soil-aggregate.md)
 * [soil-engineering](soil-engineering.md)
 * [soil-npk](soil-npk.md)
+* [substrate-classification-organic-wastes](substrate-classification-organic-wastes.md)
