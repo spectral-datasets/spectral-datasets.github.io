@@ -85,4 +85,9 @@
          <lastmod>2024-05-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://spectral-datasets.github.io/datasets/window-tint/</loc>
+         <lastmod>2024-05-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
