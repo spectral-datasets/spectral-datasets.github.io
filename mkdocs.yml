@@ -34,4 +34,5 @@ nav:
       - 'tanzania-soil': datasets/tanzania-soil.md
       - 'timber': datasets/timber.md
       - 'walnut-moisture': datasets/walnut-moisture.md
+      - 'window-tint': datasets/window-tint.md
   - 'Software': software.md

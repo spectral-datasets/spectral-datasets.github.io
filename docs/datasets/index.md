@@ -14,3 +14,4 @@ The following datasets are available:
 * [tanzania-soil](tanzania-soil.md)
 * [timber](timber.md)
 * [walnut-moisture](walnut-moisture.md)
+* [window-tint](window-tint.md)
