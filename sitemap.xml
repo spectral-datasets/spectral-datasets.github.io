@@ -2,82 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://spectral-datasets.github.io/</loc>
-         <lastmod>2024-05-26</lastmod>
+         <lastmod>2024-05-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://spectral-datasets.github.io/software/</loc>
-         <lastmod>2024-05-26</lastmod>
+         <lastmod>2024-05-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://spectral-datasets.github.io/datasets/</loc>
-         <lastmod>2024-05-26</lastmod>
+         <lastmod>2024-05-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://spectral-datasets.github.io/datasets/afsis-db-sqlite/</loc>
-         <lastmod>2024-05-26</lastmod>
+         <lastmod>2024-05-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://spectral-datasets.github.io/datasets/animal-feed/</loc>
-         <lastmod>2024-05-26</lastmod>
+         <lastmod>2024-05-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://spectral-datasets.github.io/datasets/equine-articular-cartilage/</loc>
-         <lastmod>2024-05-26</lastmod>
+         <lastmod>2024-05-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://spectral-datasets.github.io/datasets/mango-dmc/</loc>
-         <lastmod>2024-05-26</lastmod>
+         <lastmod>2024-05-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://spectral-datasets.github.io/datasets/pollen/</loc>
-         <lastmod>2024-05-26</lastmod>
+         <lastmod>2024-05-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://spectral-datasets.github.io/datasets/poultry-cattle-manure/</loc>
-         <lastmod>2024-05-26</lastmod>
+         <lastmod>2024-05-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://spectral-datasets.github.io/datasets/soil-aggregate/</loc>
-         <lastmod>2024-05-26</lastmod>
+         <lastmod>2024-05-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://spectral-datasets.github.io/datasets/soil-engineering/</loc>
-         <lastmod>2024-05-26</lastmod>
+         <lastmod>2024-05-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://spectral-datasets.github.io/datasets/soil-npk/</loc>
-         <lastmod>2024-05-26</lastmod>
+         <lastmod>2024-05-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://spectral-datasets.github.io/datasets/substrate-classification-organic-wastes/</loc>
-         <lastmod>2024-05-26</lastmod>
+         <lastmod>2024-05-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://spectral-datasets.github.io/datasets/sugarcane/</loc>
-         <lastmod>2024-05-26</lastmod>
+         <lastmod>2024-05-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://spectral-datasets.github.io/datasets/tanzania-soil/</loc>
-         <lastmod>2024-05-26</lastmod>
+         <lastmod>2024-05-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://spectral-datasets.github.io/datasets/timber/</loc>
-         <lastmod>2024-05-26</lastmod>
+         <lastmod>2024-05-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://spectral-datasets.github.io/datasets/walnut-moisture/</loc>
+         <lastmod>2024-05-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
