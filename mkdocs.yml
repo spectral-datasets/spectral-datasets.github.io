@@ -33,4 +33,5 @@ nav:
       - 'sugarcane': datasets/sugarcane.md
       - 'tanzania-soil': datasets/tanzania-soil.md
       - 'timber': datasets/timber.md
+      - 'walnut-moisture': datasets/walnut-moisture.md
   - 'Software': software.md

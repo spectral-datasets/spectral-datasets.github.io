@@ -13,3 +13,4 @@ The following datasets are available:
 * [sugarcane](sugarcane.md)
 * [tanzania-soil](tanzania-soil.md)
 * [timber](timber.md)
+* [walnut-moisture](walnut-moisture.md)
